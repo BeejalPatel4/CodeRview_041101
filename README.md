@@ -45,11 +45,3 @@ Click the Review button.
 
 View AI-generated feedback in the right panel, rendered with syntax highlighting.
 
-🎨 Customization
-Themes: Swap prism-tomorrow.css or github-dark.css for other styles.
-
-
-
-
-Editor Styling: Modify padding, font, and borders in the inline style prop.
-
